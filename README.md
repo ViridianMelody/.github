@@ -1,0 +1,2 @@
+# .github
+Default PR templates
